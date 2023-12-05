@@ -36,3 +36,7 @@ section {
 .text {
     margin: 0px 0px 0px 5px;
 }
+.card-body {
+    display: flex;
+    flex-direction: column;
+}
