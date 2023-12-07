@@ -4,7 +4,8 @@ html,body
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden; 
+    overflow-x: hidden;
+    scroll-behavior: smooth;
 }
 #showcase {
     background: #333 url(../IMG/showcase.jpg) no-repeat center center/cover;
